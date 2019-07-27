@@ -1,0 +1,11 @@
+img {
+    width: 200px;
+    height: 175px;
+    padding: 2px;
+    background-color: #EC565C;
+    /* width: 200px;
+    height: 175px; */
+    /* flex-flow: row wrap; */
+    /* float: left; */
+
+}

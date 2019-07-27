@@ -1,0 +1,13 @@
+.grid {
+  background: #B2BFCF;
+  /* border-radius: 5px; */
+  /* display: flex; */
+  justify-content: flex-start;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  /* margin: 10px; */
+  /* overflow: auto; */
+
+}

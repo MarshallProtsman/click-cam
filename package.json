@@ -1,5 +1,5 @@
 {
-  "name": "rp-19-react",
+  "name": "click-cam",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -29,11 +29,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "engines": {
-    "name": "clicky cameras",
-    "description": "a really cool app",
-    "version": "1.0.0",
-    "engines": {"node": "11.14.0"}
   }
 }

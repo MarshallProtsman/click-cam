@@ -1,0 +1,47 @@
+[
+    {
+        "id" : 1,
+        "name" : "canon",
+        "imageURL" : "https://uniquephoto1.azureedge.net/resources/uniquephoto/images/products/processed/UIECNFAE150CK.zoom.a.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "olympus",
+        "imageURL" : "https://i.ebayimg.com/images/g/hUQAAOSwnDxUeXoL/s-l300.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "autocord",
+        "imageURL" : "https://www.samys.com/imagesproc/L2ltYWdlcy9wcm9kdWN0L21haW4vUy0wNjIyMTR4MTAwMC5qcGc=_H_SH400_MW400.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "nikon",
+        "imageURL" : "https://cdn.gearpatrol.com/wp-content/uploads/2017/12/Nikon-FE-Gear-Patrol.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "nikkormat",
+        "imageURL" : "https://cdn.pixabay.com/photo/2017/01/12/12/47/nikon-1974610__340.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "vivitar",
+        "imageURL" : "https://images-na.ssl-images-amazon.com/images/I/41gkhZz7FDL._SX425_.jpg"
+    },
+    {
+        "id" : 7,
+        "name" : "minolta",
+        "imageURL" : "https://www.keh.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/3/238275-2074891_01.jpg"
+    },
+    {
+        "id" : 8,
+        "name" : "leica",
+        "imageURL" : "https://images-na.ssl-images-amazon.com/images/I/51qAbHwoFjL._SX425_.jpg"
+    },
+    {
+        "id" : 9,
+        "name" : "largeformat",
+        "imageURL" : "http://dekacenter.com/wp-content/uploads/2018/03/Education-08.jpg"
+    }
+]
